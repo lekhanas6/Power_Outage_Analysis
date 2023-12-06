@@ -1,0 +1,10 @@
+Joined  2002 to 2010,,removed month rows,Splitted restoration date and time into 2 columns to match other datsets. Matched time and date datatype
+2011 to 2014,,removed month rows,
+2015 to 2022,,Removed month column,
+2023,,Removed Month and year col,
+,,,
+,,,
+Cleaning,Number of customer affected,1 PG&E as 1…1.5 million in number….unknown as blank….appproc 70000 as 70000,midnight 12:00 am…Evening as 6:00pm       ….NERC Region PR if area is puerto rico….Hawaii as HI
+,,"94,366 at peak, total 225,353 as 225353",Manual date entry mistakes ..found whil calculating avg
+,,"8,000 -10,000 midpoint as 9000",
+,,Blanks filled with unknown,
